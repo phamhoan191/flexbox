@@ -11,16 +11,16 @@ body {
 
 .child-1 {
     background-color: red;
-    flex-basis: 150px;
+    flex-basis: 300px;
 }
 
 .child-2 {
     background-color: green;
-    flex-basis: 200px;
-    flex-grow: 1;
+    flex-basis: 500px;
+    flex-shrink: 0;
 }
 
 .child-3 {
     background-color: blue;
-    flex-basis: 150px;
+    flex-basis: 200px;
 }
